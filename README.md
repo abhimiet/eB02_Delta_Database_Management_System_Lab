@@ -1,17 +1,7 @@
 # eBO2_Delta_Database_Management_System_Lab
-eB02_Delta_Database_Management_System
+
 <html>
 <head>
-<style>
-table,th,td{
-border:1px solid black;
-border-collapse:collapse;
-}
-th,td{
-padding:5px;
-text-align: left;
-}
-</style>
 </head>
 <body >
    <h1><b> <u>Introduction</u> (<u>Round 0</u>)  </b></h1>
