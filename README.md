@@ -45,7 +45,7 @@
        <tr><td>2</td><td>Avika Tyagi </td><td>Student</td>
        	<td>Computer Science & Engineering</td><td>Meerut Institute of Engineering & Technology, Meerut</td><td><a href="mailto:avika.tyagi.cs.2018@miet.ac.in">avika.tyagi.cs.2018@miet.ac.in</td></tr>      
       <tr><td>3</td><td>Harsh Vardhana</td><td>Student</td>
-       	<td>Computer Science & Engineering</td><td>Meerut Institute of Engineering & Technology, Meerut</td><td><a href="mailto:"harsh.vardhana.cs.2018@miet.ac.in>harsh.vardhana.cs.2018@miet.ac.in</td></tr>
+       	<td>Computer Science & Engineering</td><td>Meerut Institute of Engineering & Technology, Meerut</td><td><a href="mailto:harsh.vardhana.cs.2018@miet.ac.in">harsh.vardhana.cs.2018@miet.ac.in</td></tr>
         <tr><td>4</td><td>Ashish  Kumar</td><td>Student</td>
         	<td>Computer Science & Engineering</td><td>Meerut Institute of Engineering & Technology, Meerut</td><td><a href="mailto:ashish.niwas.cs.2018@miet.ac.in">ashish.niwas.cs.2018@miet.ac.in</td></tr>
      	     </table>
