@@ -22,7 +22,7 @@
 	   <p>B.Tech , M.C.A</p>
 
    	<h3><b>Universities Mapped:</b></h3>
-	<p>AKTU</p>
+	<p>AKTU,Lucknow</p>
    <br>
    <table >
 	   <tr><td >Name of Developer</b></td><td><b>Abhishek Kumar</td></tr>
