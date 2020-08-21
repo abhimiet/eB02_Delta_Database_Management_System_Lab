@@ -7,9 +7,9 @@
    <h1><b> <u>Introduction</u> (<u>Round 0</u>)  </h1>
    <br>
    <table border="1%">
-   	<tr><th> Discipline</th> <td>Computer Science and Engineering</td></tr>
-   	<tr><th> Lab</th><td>Database Management System Lab</td></tr>
-   	<tr><th>Experiment</th><td>Define Data Query Language (DQL) Statements.<br></td></tr>
+   	<tr><td> Discipline</th> <td>Computer Science and Engineering</td></tr>
+   	<tr><td> Lab</th><td>Database Management System Lab</td></tr>
+   	<tr><td>Experiment</th><td>Define Data Query Language (DQL) Statements.<br></td></tr>
    </table>
    <br>
 	   <h3><b>About the Lab(Objective):</b></h3>	
