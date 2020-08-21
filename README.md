@@ -20,6 +20,9 @@
    	<p>Student and Faculty Members who want to learn Database Management System.</p>
 	   <h3><b>Course Alignment:</b></h3>
 	   <p>B.Tech , M.C.A</p>
+	   <h3><b>Universities Mapped:</b></h3>
+<p>AKTU</p>
+	   
    <br>
    <table >
 	   <tr><td >Name of Developer</b></td><td><b>Abhishek Kumar</td></tr>
