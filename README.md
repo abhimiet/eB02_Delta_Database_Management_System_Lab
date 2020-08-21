@@ -22,10 +22,10 @@
 	<p>AKTU</p>
    <br>
    <table>
-	   <tr><th >Name of Developer</b></th><td><b>Abhishek Kumar</td></tr>
-	   <tr><th >Institute</th><td>Meerut Institute of Engineering & Technology, Meerut</td></tr>
-	   <tr><th >Email id</b></th> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</td></tr>
-	   <tr><th>Department</th><td>Computer Science & Engineering</td></tr>
+	   <tr><td >Name of Developer</b></th><td><b>Abhishek Kumar</td></tr>
+	   <tr><td>Institute</th><td>Meerut Institute of Engineering & Technology, Meerut</td></tr>
+	   <tr><td>Email id</b></th> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</td></tr>
+	   <tr><td>Department</th><td>Computer Science & Engineering</td></tr>
   
 
    </table>
