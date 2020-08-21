@@ -21,7 +21,7 @@
 	   <h3><b>Course Alignment:</b></h3>
 	   <p>B.Tech , M.C.A</p>
 
-   	<h3><b>Universities Mapped:</h3>
+   	<h3><b>Universities Mapped:</b></h3>
 	<p>AKTU</p>
    <br>
    <table >
