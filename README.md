@@ -20,7 +20,7 @@
    	<p>Student and Faculty Members who want to learn Database Management System.</p>
    	<h3><b>Universities Mapped:</h3>
 	<p>AKTU</p>
-   <br><br>
+   <br>
    <table >
 	   <tr><td >Name of Developer</b></td><td><b>Abhishek Kumar</td></tr>
 	   <tr><td>Institute</td><td>Meerut Institute of Engineering & Technology, Meerut</td></tr>
