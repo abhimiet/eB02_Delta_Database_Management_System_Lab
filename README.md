@@ -13,9 +13,9 @@
    </table>
    <br>
    	<h3>About the Lab(Objective):</h3>	
-   	<p>To retrieve any type of records from one or more tables.</p>
+   	<p>To understand various aspects of Data Query Language Cmommands and to retrieve any type of records from one or more tables.</p>
    	<h3>About the Experiment:</h3>
-   	<p>In this experiment,students can learn about SELECT commands and use various clauses (like- WHERE, GROUP BY, ORDER BY and HAVING clause) associated with SELECT    command.These clauses help us to filter the records. <br>With the help of SELECT command we can view those columns which we want in the specified table. </p>
+   	<p>In this experiment,students can learn about SELECT commands and use various clauses (like- WHERE, GROUP BY, ORDER BY and HAVING clause) associated with SELECT    command.These clauses help us to filter the records. <br>With the help of SELECT command we can view those columns which we want to retrieve in the specified table. </p>
    	<h3>Target Audience:</h3>
    	<p>Student and Faculty Members who want to learn Database Management System.</p>
    	<h3>Universities Mapped:</h3>
