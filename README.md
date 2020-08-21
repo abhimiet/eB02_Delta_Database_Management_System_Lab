@@ -1,56 +1,71 @@
-## Introduction (Round 0)
+# eBO2_Delta_Database_Management_System_Lab
+eB02_Delta_Database_Management_System
+<html>
+<head>
+	<style>
+		table,th,td{
+			border:1px solid black;
+			border-collapse:collapse;
+		}
+		th,td{
+			padding:5px;
+			text-align: left;
+		}
+	</style>
+</head>
+<body >
+   <h1><b> <u>Introduction</u> (<u>Round 0</u>)  </b></h1>
+   <br>
+   <table border="1%">
+   	<tr><th> Discipline</th> <td>Computer Science and Engineering</td></tr>
+   	<tr><th align="left"> Lab</th><td>Database Lab</td></tr>
+   	<tr><th>Experiment</th><td>Define Data Query Language (DQL) Statements.<br> Write a DQL commands to retrieve records from one or more tables. Also use various clauses available in the SELECT statement like- WHERE, GROUP BY, ORDER BY and HAVING clause.</td></tr>
+   </table>
+   <br>
+   <div>
+   	<h3>About the Lab(objective):</h3>
+   	
+   	<p>To retrieve any type of records from one or more tables.</p>
+   	<h3>About the Experiment:</h3>
+   	<p>In this experiment students learn about SELECT commands and use various clauses (like- WHERE, GROUP BY, ORDER BY and HAVING clause) associated with SELECT command.These clauses help us to filter the records. With the help of SELECT command we view those columns which we want in the specified table. </p>
+   	<h3>Target Audience:</h3>
+   	<p>B.Tech, MCA</p>
+   	<h3>Universities Mapped:</h3>
+   	<p>AKTU</p>
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
-<br>
+   </div>
+   <table>
+   	<tr><th>Name of Developer</th><td>Abhishek Kumar</td></tr>
+   	<tr><th>Insrtitute</th><td>Meerut Institute of Engineering & Technology, Meerut</td></tr>
+   	<tr><th>Email id</th> <td>abhishek.kumar@miet.ac.in</td></tr>
+    <tr><th>Department</th><td>Computer Science & Engineering</td></tr>
+  
 
-<b>Discipline | <b>Type Name of Discpline  to which lab belongs
-:--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+   </table>
+    <h3>Mentor Details</h3>
+    <table>
+    	<tr><th>Mentored by</th><td>Sheetal Singh</td></tr>
+    	<tr><th>Institute</th><td>IIT Kanpur</td></tr>
+    	<tr><TH>Email id</TH><td>sheetals@iitk.ac.in</td></tr>
+    	<tr><th>Department</th><td>Virtual Lab</td></tr>
 
-<h5> About the Lab (Objective) : </h5>
+    </table> 
+    
+    <h3>Contributors List</h3>
+     
+     <table>
+     	<tr><th>SrNo</th><th>Name</th><th>Faculty or Student</th><th>Department</th><th>Institute</th><th>Email id</th></tr>
+     	 
+     	<tr><td>1</td><td>Gehna Malik</td><td>Student</td><td>Computer Science & Engineering</td><td>Meerut Institute of Engineering & Technology, Meerut</td><td>gehna.malik.cs.2018@miet.ac.in</td></tr>
+       
+       <tr><td>2</td><td>Avika Tyagi </td><td>Student</td>
+       	<td>Computer Science & Engineering</td><td>Meerut Institute of Engineering </td><td>avika.tyagi.cs.2018@miet.ac.in</td></tr>
+       
+       <tr><td>3</td><td>Harsh Vadhana</td><td>Student</td>
+       	<td>Computer Science & Engineering</td><td>Meerut Institute of Engineering </td><td>harsh.vardhana.cs.2018@miet.ac.in</td></tr>
 
-Type here: berif description of the lab
-
-<h5> About the Experiment : </h5>
-
-Type here: berif description of this experiment
-
-<h5> Target Audience : </h5>
-
-Type here: the target audience
-
-<h5> Course Alignment : </h5>
-
-Type here: courses aligned
-
-<h5> Universities Mapped : </h5>
-
-Type here: universities mapped
-
-<b>Name of Developer | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
-:--|:--|
-<b> Institute | <b> My Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department in which you work
-
-#### Mentor Details
-
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
-:--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
-
-#### Contributors List
-
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | Full name | Faculty | Dept Name | Name of the Insitute, City | abc@example.com
-2 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-3 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-4 | Full name | Student | Dept Name | Name of the Insitute, City |abc@example.com
-
-
-<br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
+        <tr><td>4</td><td>Ashish  Kumar</td><td>Student</td>
+        	<td>Computer Science & Engineering</td><td>Meerut Institute of Engineering </td><td>ashish.niwas.cs.2018@miet.ac.in</td></tr>
+     	     </table>
+</body>
+</html>
