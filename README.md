@@ -1,4 +1,4 @@
-# eBO2_Delta_Database_Management_System_Lab
+# eB02_Delta_Database_Management_System_Lab
 
 <html>
 <head>
@@ -7,12 +7,12 @@
    <h1><b> <u>Introduction</u> (<u>Round 0</u>)  </b></h1>
    <br>
    <table border="1%">
-   	<tr><th> Discipline</th> <td>Computer Science and Engineering</td></tr>
-   	<tr><th align="left"> Lab</th><td>Database Lab</td></tr>
-   	<tr><th>Experiment</th><td>Define Data Query Language (DQL) Statements.<br> Write a DQL commands to retrieve records from one or more tables. Also use various clauses available in the SELECT statement like- WHERE, GROUP BY, ORDER BY and HAVING clause.</td></tr>
+   	<tr><th align="left"> Discipline</th> <td>Computer Science and Engineering</td></tr>
+   	<tr><th align="left"> Lab</th><td>Database Management System Lab</td></tr>
+   	<tr><th align="left">Experiment</th><td>1. Define Data Query Language (DQL) Statements.<br> 2. Write a DQL commands to retrieve records from one or more tables. Also use various clauses available in the SELECT statement like- WHERE, GROUP BY, ORDER BY and HAVING clause.</td></tr>
    </table>
    <br>
-   	<h3>About the Lab(objective):</h3>	
+   	<h3>About the Lab(Objective):</h3>	
    	<p>To retrieve any type of records from one or more tables.</p>
    	<h3>About the Experiment:</h3>
    	<p>In this experiment students learn about SELECT commands and use various clauses (like- WHERE, GROUP BY, ORDER BY and HAVING clause) associated with SELECT    command.These clauses help us to filter the records. <br>With the help of SELECT command we view those columns which we want in the specified table. </p>
