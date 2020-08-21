@@ -20,7 +20,7 @@
    	<p>Student and Faculty Members who want to learn Database Management System.</p>
    	<h3>Universities Mapped:</h3>
 	<p>AKTU</p>
-   
+   <br>
    <table>
    	<tr><th >Name of Developer</th><td>Abhishek Kumar</td></tr>
    	<tr><th >Insrtitute</th><td>Meerut Institute of Engineering & Technology, Meerut</td></tr>
@@ -29,14 +29,16 @@
   
 
    </table>
-    <h3>Mentor Details</h3>
+   <br>
+    <h3>Mentor Details:</h3>
     <table>
     	<tr><th >Mentored by</th><td>Sheetal Singh</td></tr>
     	<tr><th >Institute</th><td>IIT Kanpur</td></tr>
     	<tr><TH>Email id</TH><td><a href="mailto:sheetals@iitk.ac.in">sheetals@iitk.ac.in</td></tr>
     	<tr><th>Department</th><td>Virtual Lab</td></tr>
     </table> 
-        <h3>Contributors List</h3>
+    <br>
+        <h3>Contributors List:</h3>
           <table>
      	<tr><th>SrNo</th><th>Name</th><th>Faculty or Student</th><th>Department</th><th>Institute</th><th>Email id</th></tr> 	 
      	<tr><td>1</td><td>Gehna Malik</td><td>Student</td><td>Computer Science & Engineering</td><td>Meerut Institute of Engineering & Technology, Meerut</td><td><a href="mailto:gehna.malik.cs.2018@miet.ac.in">gehna.malik.cs.2018@miet.ac.in</td></tr>      
