@@ -22,17 +22,17 @@
 	<p>AKTU</p>
    
    <table>
-   	<tr><th>Name of Developer</th><td>Abhishek Kumar</td></tr>
-   	<tr><th>Insrtitute</th><td>Meerut Institute of Engineering & Technology, Meerut</td></tr>
-   	<tr><th>Email id</th> <td><a href="mailto:abhishek.kumar@miet.ac.in">abhishek.kumar@miet.ac.in</td></tr>
+   	<tr><th >Name of Developer</th><td>Abhishek Kumar</td></tr>
+   	<tr><th >Insrtitute</th><td>Meerut Institute of Engineering & Technology, Meerut</td></tr>
+   	<tr><th >Email id</th> <td><a href="mailto:abhishek.kumar@miet.ac.in">abhishek.kumar@miet.ac.in</td></tr>
     <tr><th>Department</th><td>Computer Science & Engineering</td></tr>
   
 
    </table>
     <h3>Mentor Details</h3>
     <table>
-    	<tr><th>Mentored by</th><td>Sheetal Singh</td></tr>
-    	<tr><th>Institute</th><td>IIT Kanpur</td></tr>
+    	<tr><th >Mentored by</th><td>Sheetal Singh</td></tr>
+    	<tr><th >Institute</th><td>IIT Kanpur</td></tr>
     	<tr><TH>Email id</TH><td><a href="mailto:sheetals@iitk.ac.in">sheetals@iitk.ac.in</td></tr>
     	<tr><th>Department</th><td>Virtual Lab</td></tr>
     </table> 
@@ -43,7 +43,7 @@
        <tr><td>2</td><td>Avika Tyagi </td><td>Student</td>
        	<td>Computer Science & Engineering</td><td>Meerut Institute of Engineering </td><td><a href="mailto:avika.tyagi.cs.2018@miet.ac.in">avika.tyagi.cs.2018@miet.ac.in</td></tr>      
       <tr><td>3</td><td>Harsh Vadhana</td><td>Student</td>
-       	<td>Computer Science & Engineering</td><td>Meerut Institute of Engineering </td><td><a href="mailto:"harsh.vardhana.cs.2018@miet.ac.in>"harsh.vardhana.cs.2018@miet.ac.in</td></tr>
+       	<td>Computer Science & Engineering</td><td>Meerut Institute of Engineering </td><td><a href="mailto:"harsh.vardhana.cs.2018@miet.ac.in>harsh.vardhana.cs.2018@miet.ac.in</td></tr>
         <tr><td>4</td><td>Ashish  Kumar</td><td>Student</td>
         	<td>Computer Science & Engineering</td><td>Meerut Institute of Engineering </td><td><a href="mailto:ashish.niwas.cs.2018@miet.ac.in">ashish.niwas.cs.2018@miet.ac.in</td></tr>
      	     </table>
