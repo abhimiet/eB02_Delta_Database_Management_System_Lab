@@ -9,7 +9,7 @@
    <table border="1%">
    	<tr><th align="left"> Discipline</th> <td>Computer Science and Engineering</td></tr>
    	<tr><th align="left"> Lab</th><td>Database Management System Lab</td></tr>
-   	<tr><th align="left">Experiment</th><td>1. Define Data Query Language (DQL) Statements.<br> 2. Write a DQL commands to retrieve records from one or more tables. Also use various clauses available in the SELECT statement like- WHERE, GROUP BY, ORDER BY and HAVING clause.</td></tr>
+   	<tr><th align="left">Experiment</th><td>Define Data Query Language (DQL) Statements.<br> Write a DQL commands to retrieve records from one or more tables. Also use various clauses available in the SELECT statement like- WHERE, GROUP BY, ORDER BY and HAVING clause.</td></tr>
    </table>
    <br>
    	<h3>About the Lab(Objective):</h3>	
