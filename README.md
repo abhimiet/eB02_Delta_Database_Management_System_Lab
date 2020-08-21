@@ -7,9 +7,9 @@
    <h1><b> <u>Introduction</u> (<u>Round 0</u>)  </h1>
    <br>
    <table border="1%">
-   	<tr><td> Discipline</th> <td>Computer Science and Engineering</td></tr>
-   	<tr><td> Lab</th><td>Database Management System Lab</td></tr>
-   	<tr><td>Experiment</th><td>Define Data Query Language (DQL) Statements.<br></td></tr>
+   	<tr><td> Discipline</td> <td>Computer Science and Engineering</td></tr>
+   	<tr><td> Lab</td><td>Database Management System Lab</td></tr>
+   	<tr><td>Experiment</td><td>Define Data Query Language (DQL) Statements.<br></td></tr>
    </table>
    <br>
 	   <h3><b>About the Lab(Objective):</b></h3>	
@@ -22,20 +22,20 @@
 	<p>AKTU</p>
    <br>
    <table>
-	   <tr><td >Name of Developer</b></th><td><b>Abhishek Kumar</td></tr>
-	   <tr><td>Institute</th><td>Meerut Institute of Engineering & Technology, Meerut</td></tr>
-	   <tr><td>Email id</b></th> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</td></tr>
-	   <tr><td>Department</th><td>Computer Science & Engineering</td></tr>
+	   <tr><td >Name of Developer</b></td><td><b>Abhishek Kumar</td></tr>
+	   <tr><td>Institute</td><td>Meerut Institute of Engineering & Technology, Meerut</td></tr>
+	   <tr><td>Email id</b></td> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</td></tr>
+	   <tr><td>Department</td><td>Computer Science & Engineering</td></tr>
   
 
    </table>
    <br>
     <h3><b>Mentor Details:</b></h3>
     <table>
-    	<tr><th >Mentored by</th><td>Sheetal Singh</td></tr>
-    	<tr><th >Institute</th><td>IIT Kanpur</td></tr>
-    	<tr><TH>Email id</TH><td><a href="mailto:sheetals@iitk.ac.in"><b>sheetals@iitk.ac.in</td></tr>
-    	<tr><th><b>Department</th><td>Virtual Lab</td></tr>
+    	<tr><td >Mentored by</td><td>Sheetal Singh</td></tr>
+    	<tr><td>Institute</td><td>IIT Kanpur</td></tr>
+    	<tr><TD>Email id</TD><td><a href="mailto:sheetals@iitk.ac.in"><b>sheetals@iitk.ac.in</td></tr>
+    	<tr><td><b>Department</td><td>Virtual Lab</td></tr>
     </table> 
     <br>
         <h3>Contributors List:</h3><br>
