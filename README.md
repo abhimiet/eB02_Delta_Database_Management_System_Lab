@@ -7,7 +7,7 @@
    <h1><b> <u>Introduction</u> (<u>Round 0</u>)  </b></h1>
    <br>
    <table border="1%">
-   	<tr><th align="left"> Discipline</th> <td>Computer Science and Engineering</td></tr>
+   	<tr><th align="left"> Discipline</th> <td><b>Computer Science and Engineering<b></td></tr>
    	<tr><th align="left"> Lab</th><td>Database Management System Lab</td></tr>
    	<tr><th align="left">Experiment</th><td>1. Define Data Query Language (DQL) Statements.<br> 2. Write a DQL commands to retrieve records from one or more tables. Also use various clauses available in the SELECT statement like- WHERE, GROUP BY, ORDER BY and HAVING clause.</td></tr>
    </table>
