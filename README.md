@@ -23,7 +23,7 @@
    <br>
    <table>
 	   <tr><th ><b>Name of Developer</b></th><td><b>Abhishek Kumar</b></td></tr>
-	   <tr><th ><b>Insrtitute</th><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
+	   <tr><th ><b>Institute</th><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
 	   <tr><th ><b>Email id</b></th> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</b></td></tr>
 	   <tr><th><b>Department</b></th><td>Computer Science & Engineering</td></tr>
   
