@@ -13,7 +13,7 @@
    </table>
    <br>
 	   <h3><b>About the Lab(Objective):</b></h3>	
-   	<p>To understand various aspects of Data Query Language Cmommands and to retrieve any type of records from one or more tables.</p>
+   	<p>To understand various aspects of Data Query Language Commands and to retrieve any type of records from one or more tables.</p>
 	   <h3><b>About the Experiment:</b></h3>
    	<p>In this experiment, students will learn about SELECT commands and use various clauses (like- WHERE, GROUP BY, ORDER BY and HAVING clause) associated with SELECT    command.These clauses help us to filter the records. <br>With the help of SELECT command we can view those columns which we want to retrieve in the specified table. </p>
 	   <h3><b>Target Audience:</b></h3>
