@@ -21,7 +21,7 @@
    	<h3><b>Universities Mapped:</h3>
 	<p>AKTU</p>
    <br>
-   <table>
+   <table border="1%">
 	   <tr><td >Name of Developer</b></td><td><b>Abhishek Kumar</td></tr>
 	   <tr><td>Institute</td><td>Meerut Institute of Engineering & Technology, Meerut</td></tr>
 	   <tr><td>Email id</b></td> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</td></tr>
@@ -31,7 +31,7 @@
    </table>
    <br>
     <h3><b>Mentor Details:</b></h3>
-    <table>
+    <table border="1%">
     	<tr><td >Mentored by</td><td>Sheetal Singh</td></tr>
     	<tr><td>Institute</td><td>IIT Kanpur</td></tr>
     	<tr><TD>Email id</TD><td><a href="mailto:sheetals@iitk.ac.in"><b>sheetals@iitk.ac.in</td></tr>
@@ -39,7 +39,7 @@
     </table> 
     <br>
         <h3>Contributors List:</h3><br>
-          <table>
+          <table border="1%">
      	<tr><th><b>SrNo</b></th><th><b>Name</b></th><th><b>Faculty or Student</b></th><th><b>Department</b></th><th><b>Institute</b></th><th><b>Email id</b></th></tr> 	 
      	<tr><td>1</td><td>Gehna Malik</td><td>Student</td><td>Computer Science & Engineering</td><td>Meerut Institute of Engineering & Technology, Meerut</td><td><a href="mailto:gehna.malik.cs.2018@miet.ac.in">gehna.malik.cs.2018@miet.ac.in</td></tr>      
        <tr><td>2</td><td>Avika Tyagi </td><td>Student</td>
