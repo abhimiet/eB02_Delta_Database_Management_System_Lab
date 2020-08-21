@@ -17,7 +17,7 @@
    	<h3>About the Experiment:</h3>
    	<p>In this experiment students learn about SELECT commands and use various clauses (like- WHERE, GROUP BY, ORDER BY and HAVING clause) associated with SELECT    command.These clauses help us to filter the records. <br>With the help of SELECT command we view those columns which we want in the specified table. </p>
    	<h3>Target Audience:</h3>
-   	<p>B.Tech, MCA</p>
+   	<p>Student and Faculty Members who want to learn Database Management System.</p>
    	<h3>Universities Mapped:</h3>
 	<p>AKTU</p>
    
