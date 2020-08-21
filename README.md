@@ -12,7 +12,7 @@
    	<tr><th>Experiment</th><td>Define Data Query Language (DQL) Statements.<br> Write a DQL commands to retrieve records from one or more tables. Also use various clauses available in the SELECT statement like- WHERE, GROUP BY, ORDER BY and HAVING clause.</td></tr>
    </table>
    <br>
-   	<h3>About the Lab(objective):</h3>	
+   	<h3>About the Lab(Objective):</h3>	
    	<p>To retrieve any type of records from one or more tables.</p>
    	<h3>About the Experiment:</h3>
    	<p>In this experiment students learn about SELECT commands and use various clauses (like- WHERE, GROUP BY, ORDER BY and HAVING clause) associated with SELECT    command.These clauses help us to filter the records. <br>With the help of SELECT command we view those columns which we want in the specified table. </p>
